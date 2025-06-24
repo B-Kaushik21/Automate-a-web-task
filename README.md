@@ -10,9 +10,11 @@ This script uses Selenium WebDriver to:
 ## How to Run
 1. Clone this repo
 2. Install dependencies:
+```
 pip install -r requirements.txt
-3. Set your Instagram dummy username/password in `instagram.py`
-4. Run the script:
+```
+4. Set your Instagram dummy username/password in `instagram.py`
+5. Run the script:
 
 
 ## Dependencies
