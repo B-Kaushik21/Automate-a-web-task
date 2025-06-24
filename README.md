@@ -5,7 +5,7 @@ This script uses Selenium WebDriver to:
 - Navigate to a target profile (e.g., `cbitosc`)
 - Auto-follow if not already following
 - Extract details like full name, bio, posts, followers, and link
-- Save the data to a text file
+- Save the data to a text file (`cbitosc_data.txt`)
 
 ## How to Run
 1. Clone this repo
