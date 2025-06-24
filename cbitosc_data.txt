@@ -1,0 +1,8 @@
+username: cbitosc
+full_name: CBIT Open Source Community
+bio: Community organisation
+Learn. Code. Share.
+link: https://linktr.ee/cbitosc
+posts: 89
+followers: 2,096
+following: 10
